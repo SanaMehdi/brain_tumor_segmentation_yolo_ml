@@ -81,7 +81,7 @@ Sample visualizations show original images with masks overlayed on brain tumor r
 
 ## 📹 Video Demo
 
-YouTube link (insert here): [Video Demo](https://your-youtube-link.com)
+YouTube link (insert here): [Video Demo](https://youtu.be/TG1TDcesh5E)
 
 ---
 
