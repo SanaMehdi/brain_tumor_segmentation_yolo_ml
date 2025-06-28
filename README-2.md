@@ -1,7 +1,7 @@
 
 # Brain Tumor Segmentation using YOLOv11 and SAM2
 
-This project is part of the DevWeekend AI Fellowship (Category B: Intermediate). It implements **instance segmentation** of brain tumors using **YOLOv11** and **SAM2 (Segment Anything Model 2)** on a brain tumor dataset.
+This project is part of the Arch Technologies ml internship (Category B: Intermediate). It implements **instance segmentation** of brain tumors using **YOLOv11** and **SAM2 (Segment Anything Model 2)** on a brain tumor dataset.
 
 ## 🧠 Project Objective
 
